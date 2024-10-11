@@ -1,4 +1,4 @@
-# Financial Data Analytics Final Project
+# QNBT Big Data Project
 
 I created these Jupyter Notebooks for my team as part of the final project in my graduate-level Financial Data Analytics course (FI8090) at Georgia State University in the Fall Semester of 2022. This project was completed in collaboration with my teammates. Notably, I took on all coding responsibilities since my team members were not experienced programmers. Our work was presented to and evaluated by executives at QNBT and our professor.
 
