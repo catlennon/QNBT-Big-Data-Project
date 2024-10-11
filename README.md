@@ -42,5 +42,4 @@ The goal of the project was to perform analysis of a 50,000+ record dataset usin
 - Analyzed customer churn data by combining **initial exploration in Excel and Tableau** with **detailed Python-based modeling** to derive insights into customer behavior.
 - Applied **logistic regression** and **LASSO regression** to predict churn and identify key drivers.
 - Significant factors impacting churn included **overdraft fees**, **negative financial experiences**, and **customer tenure**.
-- This project demonstrated skills in **data preparation**, **feature engineering**, **machine learning modeling**, and **model evaluation** in a finance context.
 
